@@ -1,0 +1,41 @@
+.center {
+  margin: auto;
+  display: block;
+}
+
+.center-text {
+  text-align: center;
+}
+
+#tribute-info {
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+}
+
+#img-caption {
+  margin: 15px;
+}
+
+#tribute-link {
+  position: relative;
+  bottom: 10px;
+}
+
+li {
+  max-width: 550px;
+  text-align: left;
+  margin: 0 auto;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+  margin: auto;
+  display: block;
+}
+
+h1,
+footer {
+  text-align: center;
+}
